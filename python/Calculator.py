@@ -59,7 +59,3 @@ while Reload == 'y':
     Reload = str(input("Do you want to make another calculation? \nPress 'y' for Yes and 'n' for No "))
     Reload = Reload.lower()
 print()
-
-
-
-# i changed almost eveything this bitch wrote, like didnt you even reb\view the shii you wrote
